@@ -22,7 +22,7 @@ function drawdonut(R, G, B, x, y)
 { 
 //doughnut #1
 
-fill(R, G, B, 255);
+fill(R, G, B, 255); 
 ellipse(x, y, 200, 200);
 fill(0);
 ellipse(x, y, 120, 120);
