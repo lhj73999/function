@@ -17,15 +17,15 @@ drawdonut(500,300);
 
 }
 
-function drawdonut1(x,y)
+function drawdonut1(x, y)
 
 { 
 //doughnut #1
 
 fill(255);
-ellipse(x,y,200,200);
+ellipse(x, y,200,200);
 fill(0);
-ellipse(x,y,120,120);
+ellipse(x, y,120,120);
 	}
 
      
