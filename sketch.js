@@ -17,7 +17,7 @@ drawdonut(500, 300);
 
 }
 
-function drawdonut1(x, y)
+function drawdonut(x, y)
 
 { 
 //doughnut #1
