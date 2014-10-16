@@ -11,18 +11,17 @@ function draw()
 	ellipse(mouseX, mouseY, 100, 100);
 
 drawdonut1();
-
 }
 
 function drawdonut1()
 
 { 
-	//doughnut #1
-	
+//doughnut #1
+
 fill(255);
 ellipse(300,300,200,200);
 fill(0);
-ellipse(200,400,120,120);
+ellipse(300,300,120,120);
 	}
 
      
