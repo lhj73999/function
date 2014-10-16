@@ -10,7 +10,11 @@ function draw()
 	fill(255);
 	ellipse(mouseX, mouseY, 100, 100);
 
-drawdonut1();
+drawdonut(100,100);
+drawdonut(300,100);
+drawdonut(400,200);
+drawdonut(500,300);
+
 }
 
 function drawdonut1()
